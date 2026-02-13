@@ -11,3 +11,14 @@ img {
     justify-content: space-around;
     /* flex-wrap: wrap; */
 }
+a:visited{
+    color: red;
+}
+
+a:link{
+    color: palevioletred;
+}
+
+.block-demo{
+    border: 2px solid green;
+}
